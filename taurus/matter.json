@@ -15,7 +15,17 @@
       "Stable does not mean stuck.",
       "If I love it, I will water it for years.",
       "Quietly building the life everyone thought appeared overnight.",
-      "You call it a treat. I call it emotional infrastructure."
+      "You call it a treat. I call it emotional infrastructure.",
+      "My mind is made up, but you may submit supporting documents.",
+      "Luxury is clean sheets and nobody changing the plan.",
+      "I am not late. I was enjoying the previous moment.",
+      "My loyalty has roots, not Wi-Fi.",
+      "Change the plan twice and I become unavailable spiritually.",
+      "I trust what repeats, not what performs.",
+      "Slow reply, permanent presence.",
+      "The vibe is earthy, expensive, and none of your business.",
+      "I make patience look easy because you cannot hear the internal sighing.",
+      "My boundaries come with cushions, but they are still walls."
     ],
     "affirmations_predictions": [
       "What you build patiently now will feel worth the wait.",
@@ -25,7 +35,19 @@
       "A small luxury reminds you that pleasure can be part of the plan.",
       "The change ahead will feel less threatening once you choose its pace.",
       "Your body will tell you which commitment is sustainable.",
-      "Someone dependable will make softness feel safe again."
+      "Someone dependable will make softness feel safe again.",
+      "A financial choice becomes clearer when it supports peace instead of appearances.",
+      "Your steady effort will outlast someone else's sudden head start.",
+      "A change you resisted may preserve the comfort you were trying to protect.",
+      "You will find a better rhythm by giving pleasure a place on the calendar.",
+      "The person worth trusting will be consistent on ordinary days.",
+      "Your patience is powerful, but you do not owe endless chances.",
+      "A practical purchase solves a problem that has been draining you quietly.",
+      "You are ready to release a routine that became a hiding place.",
+      "Your creative work deepens when you stop rushing to show it.",
+      "A calm conversation settles an issue that pressure only hardened.",
+      "The next season asks you to receive as generously as you give.",
+      "Your standards are becoming simpler, clearer, and harder to bargain down."
     ],
     "micro_poems": [
       [
@@ -47,5 +69,23 @@
         "and becomes worth the wait."
       ]
     ]
+  },
+  "astro_basis": {
+    "element": "Earth",
+    "ruler": "Venus",
+    "keywords": [
+      "stability",
+      "sensuality",
+      "patience",
+      "material security",
+      "stubbornness"
+    ],
+    "modality": "Fixed"
+  },
+  "counts": {
+    "one_liners": 20,
+    "affirmations_predictions": 20,
+    "micro_poems": 3,
+    "total_content_pieces": 43
   }
 }

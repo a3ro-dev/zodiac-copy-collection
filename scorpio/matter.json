@@ -15,7 +15,17 @@
       "Intensity is only scary when honesty feels unfamiliar.",
       "I can forgive you and still change the locks.",
       "Dark humour, bright loyalty.",
-      "You met the calm version. The ocean stayed underneath."
+      "You met the calm version. The ocean stayed underneath.",
+      "I trust slowly and notice quickly.",
+      "My poker face has already written the case study.",
+      "You call it intense. I call it paying attention.",
+      "I do not need revenge when consequences have your address.",
+      "My soft side is invite-only and worth the application process.",
+      "I can smell a half-truth through a locked screen.",
+      "The mystery is mostly me minding my business.",
+      "I survived the plot twist and kept the screenshots.",
+      "Loyalty is not a mood. It is the whole contract.",
+      "I went quiet because the answer became obvious."
     ],
     "affirmations_predictions": [
       "The truth you name will free up energy you have spent hiding it.",
@@ -25,7 +35,19 @@
       "You can protect your privacy without testing everyone's loyalty.",
       "A difficult conversation reveals more devotion than suspicion expected.",
       "The next transformation is quieter: less destruction, more release.",
-      "You will recognise power in choosing peace before revenge."
+      "You will recognise power in choosing peace before revenge.",
+      "A secret stops controlling you once you choose where it can be spoken safely.",
+      "Your next bond deepens through consistency rather than forced confession.",
+      "You will notice when caution has turned into control and loosen your grip.",
+      "A shared resource or responsibility becomes fairer after direct negotiation.",
+      "Your ability to focus transforms a neglected goal.",
+      "Someone's actions will answer the question their words kept avoiding.",
+      "You can leave the old version behind without hating who you were.",
+      "A difficult truth becomes less dangerous in daylight.",
+      "Your privacy remains intact even when you let support in.",
+      "The next ending makes space instead of leaving a wound.",
+      "Your instincts sharpen when suspicion no longer has to lead them.",
+      "A loyal choice made now will matter long after the emotion settles."
     ],
     "micro_poems": [
       [
@@ -47,5 +69,23 @@
         "you fear not being reborn."
       ]
     ]
+  },
+  "astro_basis": {
+    "element": "Water",
+    "ruler": "Mars/Pluto",
+    "keywords": [
+      "depth",
+      "transformation",
+      "power",
+      "hidden truths",
+      "control"
+    ],
+    "modality": "Fixed"
+  },
+  "counts": {
+    "one_liners": 20,
+    "affirmations_predictions": 20,
+    "micro_poems": 3,
+    "total_content_pieces": 43
   }
 }

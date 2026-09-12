@@ -15,7 +15,17 @@
       "I care enough to tell you the typo is public.",
       "Overthinking, but with footnotes.",
       "Useful is romantic. Fight me.",
-      "I don't need perfection. I need it to make sense."
+      "I don't need perfection. I need it to make sense.",
+      "I made a list to relax and added relaxing to the list.",
+      "My standards are not high. The bar was simply on the floor.",
+      "I can spot a weak argument from the font choice.",
+      "Helpful until the help becomes a full-time unpaid position.",
+      "I brought snacks, chargers, and one concern about the schedule.",
+      "The chaos is organised by emotional priority.",
+      "I do not micromanage. I prevent avoidable sequels.",
+      "If I stopped caring, you would miss the corrections.",
+      "My version of flirting is remembering the inconvenient detail.",
+      "Perfectionism is fear wearing office clothes."
     ],
     "affirmations_predictions": [
       "A small routine change will give you more energy than another big plan.",
@@ -25,7 +35,19 @@
       "The answer gets simpler when you stop solving problems that have not happened.",
       "Your standards can guide you without becoming a punishment.",
       "A practical skill turns into a creative advantage.",
-      "You will feel lighter after asking for help before the final draft."
+      "You will feel lighter after asking for help before the final draft.",
+      "A task becomes manageable when you define what done actually means.",
+      "Your discernment will protect your time without hardening your heart.",
+      "Someone values the care behind your feedback and responds with effort.",
+      "A health routine succeeds because it is realistic, not impressive.",
+      "You will catch an important detail without carrying the entire project.",
+      "The next solution appears after you take your hands off the problem for an hour.",
+      "Your work deserves to exist before every flaw has been removed.",
+      "A cleaner boundary replaces a complicated explanation.",
+      "You are learning to notice what went right with equal precision.",
+      "A quiet act of service creates a lasting professional connection.",
+      "Your nervous system will thank you for choosing repeatable over perfect.",
+      "The person meant to help will not need a flawless request."
     ],
     "micro_poems": [
       [
@@ -47,5 +69,23 @@
         "with room between the seams."
       ]
     ]
+  },
+  "astro_basis": {
+    "element": "Earth",
+    "ruler": "Mercury",
+    "keywords": [
+      "precision",
+      "service",
+      "health",
+      "discernment",
+      "self-criticism"
+    ],
+    "modality": "Mutable"
+  },
+  "counts": {
+    "one_liners": 20,
+    "affirmations_predictions": 20,
+    "micro_poems": 3,
+    "total_content_pieces": 43
   }
 }

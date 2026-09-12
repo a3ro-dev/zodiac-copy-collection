@@ -15,7 +15,17 @@
       "My confidence took practice. Respect the rehearsal.",
       "If joy is extra, send me the full upgrade.",
       "Big heart, selective audience.",
-      "I bring the sunlight and remember who offered shade."
+      "I bring the sunlight and remember who offered shade.",
+      "I am not asking for applause. Eye contact will do.",
+      "The outfit arrived before the occasion existed.",
+      "My loyalty is loud even when my pride is quiet.",
+      "I make entrances because exits are emotionally complicated.",
+      "Generous to a fault, dramatic to a soundtrack.",
+      "I do not steal the spotlight. It recognises me from work.",
+      "My friends' wins become national holidays.",
+      "The confidence is homemade, not store-bought.",
+      "I can laugh at myself, but the joke still needs standards.",
+      "Warm enough to forgive, proud enough to remember."
     ],
     "affirmations_predictions": [
       "Your work gets noticed when you let it be seen before it feels perfect.",
@@ -25,7 +35,19 @@
       "You can lead without carrying the entire room on your back.",
       "Someone will celebrate you without turning it into a competition.",
       "Your courage grows quieter and more dependable this season.",
-      "A creative risk brings the kind of attention that actually fits."
+      "A creative risk brings the kind of attention that actually fits.",
+      "A creative project becomes stronger when you stop asking whether it is impressive.",
+      "You will receive recognition from a place you had stopped watching.",
+      "The next leadership moment asks you to listen before you light the room.",
+      "A loyal friend reminds you that love does not always arrive as applause.",
+      "Your confidence grows when it serves the work instead of protecting the ego.",
+      "You are ready to enjoy attention without depending on it.",
+      "Someone sees the tenderness behind your polished entrance.",
+      "A playful decision repairs energy that discipline could not restore.",
+      "Your generosity returns through an unexpected person.",
+      "The room changes when you offer warmth without performing certainty.",
+      "A public opportunity fits once the private preparation is complete.",
+      "You will stop chasing the audience that only appears for the spectacle."
     ],
     "micro_poems": [
       [
@@ -47,5 +69,24 @@
         "after passing through you."
       ]
     ]
+  },
+  "astro_basis": {
+    "element": "Fire",
+    "ruler": "Sun",
+    "keywords": [
+      "creativity",
+      "leadership",
+      "pride",
+      "warmth",
+      "generosity",
+      "ego"
+    ],
+    "modality": "Fixed"
+  },
+  "counts": {
+    "one_liners": 20,
+    "affirmations_predictions": 20,
+    "micro_poems": 3,
+    "total_content_pieces": 43
   }
 }

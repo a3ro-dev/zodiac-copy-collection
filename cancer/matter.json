@@ -15,7 +15,17 @@
       "My intuition sent the screenshot before reality did.",
       "Soft voice, hard shell, excellent memory.",
       "I made you food because saying everything felt too loud.",
-      "Emotional does not mean fragile. Oceans are emotional too."
+      "Emotional does not mean fragile. Oceans are emotional too.",
+      "I am not ignoring you. I am waiting for the emotional weather report.",
+      "Everyone gets kindness. Very few get the spare key.",
+      "My shell is cute until you knock without asking.",
+      "I can tell who washed the mug with love.",
+      "Sentimental, selective, and suspicious of sudden sweetness.",
+      "I remember birthdays, tones, and exactly when the energy got weird.",
+      "My comfort show has seen things no therapist should hear.",
+      "I nurture people, not bad behaviour.",
+      "The group chat thinks I vanished. I was restoring the habitat.",
+      "I carry home with me, but the guest list stays private."
     ],
     "affirmations_predictions": [
       "The boundary you set will protect the bond that deserves to stay.",
@@ -25,7 +35,19 @@
       "A sincere apology will matter more than a perfect explanation.",
       "Your care will be returned in a form you do not have to decode.",
       "The next chapter asks you to trust your needs before defending them.",
-      "A home-related change brings more calm than you expect."
+      "A home-related change brings more calm than you expect.",
+      "A memory loses its grip when you let it become a lesson instead of a location.",
+      "Your intuition is clearest after the first emotional wave passes.",
+      "Someone close will finally ask what you need rather than assume.",
+      "A domestic project brings order to more than your room.",
+      "You can offer care without becoming the emergency service for everyone you love.",
+      "The conversation ahead rewards softness with structure.",
+      "Your family story is part of you, not the limit of you.",
+      "A friendship feels safer after one awkward truth is spoken.",
+      "You will protect your peace without apologising for the locked door.",
+      "A familiar creative habit returns when you feel emotionally rested.",
+      "The next bond grows slowly enough for trust to keep up.",
+      "Your tenderness becomes strength when it chooses where to land."
     ],
     "micro_poems": [
       [
@@ -47,5 +69,23 @@
         "hear the whole house breathe."
       ]
     ]
+  },
+  "astro_basis": {
+    "element": "Water",
+    "ruler": "Moon",
+    "keywords": [
+      "nurturing",
+      "intuition",
+      "emotional memory",
+      "home",
+      "defensiveness"
+    ],
+    "modality": "Cardinal"
+  },
+  "counts": {
+    "one_liners": 20,
+    "affirmations_predictions": 20,
+    "micro_poems": 3,
+    "total_content_pieces": 43
   }
 }

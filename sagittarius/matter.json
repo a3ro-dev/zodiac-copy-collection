@@ -15,7 +15,17 @@
       "I came back with three stories and no charger.",
       "Optimism with questionable navigation.",
       "Tell me I can't and watch this become a travel documentary.",
-      "My life plan currently has scenic-route energy."
+      "My life plan currently has scenic-route energy.",
+      "I followed my heart and it had no return ticket.",
+      "My calendar said busy. My spirit said airport.",
+      "I ask big questions and forget where I left my keys.",
+      "Honesty arrived before tact could find parking.",
+      "Every bad decision becomes a well-told story eventually.",
+      "I need space, sunlight, and one unreasonable goal.",
+      "The itinerary is a suggestion with good typography.",
+      "I can commit. The commitment just needs a horizon.",
+      "My optimism has survived several pieces of evidence.",
+      "Too curious to stay cynical for long."
     ],
     "affirmations_predictions": [
       "A new place or subject will stretch your idea of what is possible.",
@@ -25,7 +35,19 @@
       "You can choose adventure without abandoning what loves you.",
       "One long-term goal finally starts to feel like freedom, not a cage.",
       "Your humour helps someone breathe through a heavy moment.",
-      "The horizon expands after you finish the task directly in front of you."
+      "The horizon expands after you finish the task directly in front of you.",
+      "A distant goal becomes real when you book the first practical step.",
+      "Your honesty earns trust when it arrives without making someone the punchline.",
+      "A teacher, book, or journey changes the question you have been asking.",
+      "You will find freedom inside a commitment you chose consciously.",
+      "A bold application reaches farther than your current confidence.",
+      "The next adventure begins locally before it expands.",
+      "Someone appreciates your restless mind and still expects reliability.",
+      "Your humour turns an awkward room into a possible friendship.",
+      "A belief you inherited makes room for a truth you discovered.",
+      "You are ready to stay long enough to see what depth can offer.",
+      "A risk pays off because you researched the landing, not just the leap.",
+      "Your enthusiasm becomes influence when it includes follow-through."
     ],
     "micro_poems": [
       [
@@ -47,5 +69,23 @@
         "but you still chase it all."
       ]
     ]
+  },
+  "astro_basis": {
+    "element": "Fire",
+    "ruler": "Jupiter",
+    "keywords": [
+      "expansion",
+      "philosophy",
+      "freedom",
+      "truth-seeking",
+      "excess"
+    ],
+    "modality": "Mutable"
+  },
+  "counts": {
+    "one_liners": 20,
+    "affirmations_predictions": 20,
+    "micro_poems": 3,
+    "total_content_pieces": 43
   }
 }

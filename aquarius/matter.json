@@ -15,7 +15,17 @@
       "I questioned the rule and accidentally redesigned the system.",
       "Too original for the template, too stubborn for the trend.",
       "I care about humanity. Individual humans require scheduling.",
-      "My weird phase has excellent long-term prospects."
+      "My weird phase has excellent long-term prospects.",
+      "I am emotionally available in an unconventional file format.",
+      "The future texted. I left it on read to think.",
+      "I did it before it was cool and after it became useful.",
+      "My rebellion has a spreadsheet and community guidelines.",
+      "I need people in theory and alone time in practice.",
+      "Detached is a strong word for internally processing at satellite speed.",
+      "The rule made sense until I looked at it.",
+      "I brought a strange idea and enough facts to make it inconvenient.",
+      "My social circle is curated like an obscure playlist.",
+      "I refuse the box, then organise everyone outside it."
     ],
     "affirmations_predictions": [
       "The idea that feels too strange for the room may be the one worth keeping.",
@@ -25,7 +35,19 @@
       "You can belong to the group without surrendering your edges.",
       "A private feeling becomes easier once you give it ordinary words.",
       "Your refusal to copy the obvious answer creates a better one.",
-      "A community you nearly overlooked will make room for your full self."
+      "A community you nearly overlooked will make room for your full self.",
+      "An unusual solution earns support once you show how it helps real people.",
+      "A friendship becomes warmer when analysis makes room for affection.",
+      "You will find your people in a smaller, stranger corner than expected.",
+      "The future you imagine needs one boring system to survive.",
+      "A group project works when you share ownership, not only ideas.",
+      "Someone understands your need for space without reading it as rejection.",
+      "Your originality becomes practical at exactly the right moment.",
+      "A cause matters more when you let individual stories reach you.",
+      "You are ready to update an identity that once kept you independent.",
+      "The next breakthrough comes from revisiting an old rule with new evidence.",
+      "A surprising invitation pulls you out of observer mode.",
+      "Your difference stops feeling lonely when it becomes useful to a community."
     ],
     "micro_poems": [
       [
@@ -47,5 +69,22 @@
         "each time you let it break."
       ]
     ]
+  },
+  "astro_basis": {
+    "element": "Air",
+    "ruler": "Saturn/Uranus",
+    "keywords": [
+      "innovation",
+      "humanitarian ideals",
+      "detachment",
+      "originality"
+    ],
+    "modality": "Fixed"
+  },
+  "counts": {
+    "one_liners": 20,
+    "affirmations_predictions": 20,
+    "micro_poems": 3,
+    "total_content_pieces": 43
   }
 }

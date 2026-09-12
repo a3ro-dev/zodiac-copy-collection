@@ -15,7 +15,17 @@
       "I said yes before fear finished its sentence.",
       "Some call it impulsive. I call it live testing.",
       "Kind heart. Battle-ready boundaries.",
-      "I don't need a map when momentum knows the way."
+      "I don't need a map when momentum knows the way.",
+      "First draft energy, final boss confidence.",
+      "I would rather risk the bruise than wonder about the jump.",
+      "My indoor voice has outdoor ambitions.",
+      "I do not wake up motivated. I wake up ready to challenge something.",
+      "The plan was simple until I made it a race.",
+      "No hard feelings. I forgot the argument five minutes ago.",
+      "I bring emergency courage to ordinary Tuesdays.",
+      "If there is no spark, I am probably already leaving.",
+      "Bold enough to begin, humble enough to restart.",
+      "My red flag is thinking every obstacle needs a dramatic entrance."
     ],
     "affirmations_predictions": [
       "The idea you keep circling is ready for a real first step.",
@@ -25,7 +35,19 @@
       "A brave message clears up what silence has been complicating.",
       "You are learning that rest does not cancel your momentum.",
       "The next challenge will ask for patience, not proof of strength.",
-      "Someone will match your effort instead of merely admiring it."
+      "Someone will match your effort instead of merely admiring it.",
+      "Your first attempt does not need to carry your entire reputation.",
+      "A stalled plan moves once you make the smallest decisive choice.",
+      "You will win more by choosing the right fight than by answering every challenge.",
+      "The confidence you offer everyone else is beginning to return to you.",
+      "A physical outlet will clear the frustration that thinking cannot solve.",
+      "Your directness attracts a person who is tired of guessing games.",
+      "The next opportunity rewards initiative, but it also rewards preparation.",
+      "You are allowed to be a beginner without becoming less brave.",
+      "A quick apology repairs more than a long defence could.",
+      "You will notice the difference between urgency and genuine excitement.",
+      "One focused hour turns a restless week into visible progress.",
+      "Your fire works best as a signal, not a wildfire."
     ],
     "micro_poems": [
       [
@@ -47,5 +69,23 @@
         "then teach it how to stand."
       ]
     ]
+  },
+  "astro_basis": {
+    "element": "Fire",
+    "ruler": "Mars",
+    "keywords": [
+      "boldness",
+      "initiative",
+      "raw energy",
+      "pioneering drive",
+      "impatience"
+    ],
+    "modality": "Cardinal"
+  },
+  "counts": {
+    "one_liners": 20,
+    "affirmations_predictions": 20,
+    "micro_poems": 3,
+    "total_content_pieces": 43
   }
 }

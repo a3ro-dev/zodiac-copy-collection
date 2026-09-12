@@ -15,7 +15,17 @@
       "My playlist understood before I did.",
       "I disappeared to process one emotion and found twelve more.",
       "Romantic soul, increasingly practical blocking skills.",
-      "I read the room and needed a nap afterward."
+      "I read the room and needed a nap afterward.",
+      "Reality called. I sent a beautifully worded voice note.",
+      "I am not lost. The route is emotionally scenic.",
+      "My boundaries used to be fog. We have upgraded to doors.",
+      "I turned one look into a twelve-track concept album.",
+      "The vibe was off, so I left in spirit first.",
+      "I forgive, but my dreams submit incident reports.",
+      "Sensitive enough to notice, wise enough not to announce it.",
+      "My inner world requires better lighting than this conversation.",
+      "I saw the ending early and stayed for the symbolism.",
+      "Imagination is a skill. Escaping is a separate subscription."
     ],
     "affirmations_predictions": [
       "A creative idea becomes real once you give it a schedule.",
@@ -25,7 +35,19 @@
       "You can care about someone's potential without volunteering to rescue it.",
       "Your sensitivity will guide a choice that logic alone could not finish.",
       "A gentle routine helps your imagination produce something tangible.",
-      "The next connection feels deep without requiring confusion."
+      "The next connection feels deep without requiring confusion.",
+      "A creative project gains momentum when inspiration meets a modest deadline.",
+      "You will recognise intuition by how quietly it repeats itself.",
+      "Someone's consistency helps you stop romanticising uncertainty.",
+      "A boundary creates the calm your compassion was trying to find.",
+      "Your imagination solves a practical problem in an unexpected way.",
+      "A period of solitude restores you without becoming disappearance.",
+      "You can understand someone's pain without making it your assignment.",
+      "The next dream worth following will survive contact with a plan.",
+      "Your art becomes clearer when you stop explaining every symbol.",
+      "A confusing relationship loses power once actions become the evidence.",
+      "You will feel more grounded after choosing one sensory ritual and repeating it.",
+      "Your softness stays intact while your standards grow stronger."
     ],
     "micro_poems": [
       [
@@ -47,5 +69,23 @@
         "when it is dreamed by you."
       ]
     ]
+  },
+  "astro_basis": {
+    "element": "Water",
+    "ruler": "Jupiter/Neptune",
+    "keywords": [
+      "compassion",
+      "spirituality",
+      "imagination",
+      "dissolution",
+      "escapism"
+    ],
+    "modality": "Mutable"
+  },
+  "counts": {
+    "one_liners": 20,
+    "affirmations_predictions": 20,
+    "micro_poems": 3,
+    "total_content_pieces": 43
   }
 }

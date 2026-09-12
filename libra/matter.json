@@ -15,7 +15,17 @@
       "Social battery elegant, percentage uncertain.",
       "I make it look effortless because the debate happened internally.",
       "Harmony is not silence. Learn the difference.",
-      "Romanticising the day, but checking the red flags."
+      "Romanticising the day, but checking the red flags.",
+      "I chose peace, then changed my mind when peace got disrespectful.",
+      "My decision is final after one last completely unnecessary poll.",
+      "I can match your energy, but I would rather improve the lighting.",
+      "Flirting is just diplomacy with better clothes.",
+      "I heard every side. One side still needs to leave.",
+      "The aesthetic is balanced. My inbox is a constitutional crisis.",
+      "Pleasant does not mean permission.",
+      "I can make a boundary sound beautiful. It is still a boundary.",
+      "Justice first, awkward silence immediately after.",
+      "I want the truth, preferably with decent table manners."
     ],
     "affirmations_predictions": [
       "A clear decision will feel better than keeping every option beautiful.",
@@ -25,7 +35,19 @@
       "The choice ahead becomes easy once fairness includes you.",
       "A room you were nervous to enter will welcome your point of view.",
       "You are learning to disappoint people who benefited from your hesitation.",
-      "Love feels calmer when attraction is joined by reciprocity."
+      "Love feels calmer when attraction is joined by reciprocity.",
+      "A decision becomes peaceful the moment you stop trying to make it painless for everyone.",
+      "Your charm opens a door that your preparation knows how to use.",
+      "Someone responds well when you state the need without decorating it.",
+      "A partnership improves through a fairer split of invisible work.",
+      "You will recognise that chemistry and compatibility are separate questions.",
+      "A visual or creative choice brings new attention to your work.",
+      "The right compromise leaves both people visible.",
+      "Your social energy returns after one evening with no performance required.",
+      "A conflict resolves when you stop translating for both sides.",
+      "You are allowed to choose what suits you before collecting opinions.",
+      "A balanced opportunity will not demand that you betray your taste.",
+      "Your next yes feels calm because your no became clear."
     ],
     "micro_poems": [
       [
@@ -47,5 +69,23 @@
         "not a picture holding still."
       ]
     ]
+  },
+  "astro_basis": {
+    "element": "Air",
+    "ruler": "Venus",
+    "keywords": [
+      "balance",
+      "justice",
+      "partnership",
+      "harmony",
+      "indecision"
+    ],
+    "modality": "Cardinal"
+  },
+  "counts": {
+    "one_liners": 20,
+    "affirmations_predictions": 20,
+    "micro_poems": 3,
+    "total_content_pieces": 43
   }
 }

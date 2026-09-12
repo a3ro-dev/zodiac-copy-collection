@@ -15,7 +15,17 @@
       "My five-year plan has trust issues.",
       "Reliable enough to be everyone's emergency contact, tired enough to regret it.",
       "I took the long route because it had better foundations.",
-      "Built different. Mostly built under pressure."
+      "Built different. Mostly built under pressure.",
+      "I scheduled spontaneity for Thursday.",
+      "My humour is dry because the budget went to resilience.",
+      "I have emotions. They are waiting for the meeting to end.",
+      "The glow-up is under construction and ahead of schedule.",
+      "I do not fear hard work. I fear pointless work.",
+      "My standards came from experience, not a motivational poster.",
+      "Quiet luxury is leaving early because tomorrow matters.",
+      "I turned survival skills into project management.",
+      "Respectfully, the deadline was visible from space.",
+      "I am fun once the responsibilities stop multiplying."
     ],
     "affirmations_predictions": [
       "The work nobody applauded yet is becoming your strongest proof.",
@@ -25,7 +35,19 @@
       "A delayed result arrives with better terms than the rushed version.",
       "You can be respected without being endlessly useful.",
       "Your next milestone includes more room for a real life.",
-      "A quiet friendship proves stronger than a loud promise."
+      "A quiet friendship proves stronger than a loud promise.",
+      "A long-term effort reaches the stage where other people can finally see it.",
+      "Your authority grows when you admit what you are still learning.",
+      "A career decision improves once prestige stops being the only measure.",
+      "You will build faster after removing one responsibility that was never yours.",
+      "Someone reliable meets you where your guard usually stands.",
+      "Your next goal needs a sustainable system more than another sacrifice.",
+      "A patient negotiation produces stronger terms.",
+      "You are allowed to celebrate before the entire mountain is climbed.",
+      "The structure you create now gives future you more freedom.",
+      "A mentor or older ally recognises the seriousness of your work.",
+      "Your dry humour turns out to be the bridge in a tense room.",
+      "Success begins to feel real when it includes time you can call your own."
     ],
     "micro_poems": [
       [
@@ -47,5 +69,23 @@
         "you were building what would hold."
       ]
     ]
+  },
+  "astro_basis": {
+    "element": "Earth",
+    "ruler": "Saturn",
+    "keywords": [
+      "ambition",
+      "discipline",
+      "structure",
+      "authority",
+      "coldness"
+    ],
+    "modality": "Cardinal"
+  },
+  "counts": {
+    "one_liners": 20,
+    "affirmations_predictions": 20,
+    "micro_poems": 3,
+    "total_content_pieces": 43
   }
 }

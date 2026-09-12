@@ -2,10 +2,10 @@
 
 An original, ready-to-use writing bank for zodiac-themed products aimed at ages 16–22.
 
-The collection contains 252 creative pieces across all 12 Western tropical zodiac signs:
+The collection contains 516 creative pieces across all 12 Western tropical zodiac signs. Every sign has 43 pieces, more than double the requested minimum of 20:
 
-- 120 punchy one-liners
-- 96 affirmations and forward-looking predictions
+- 240 punchy one-liners: 20 per sign
+- 240 affirmations and forward-looking predictions: 20 per sign
 - 36 four-line micro-poems
 
 ## Sign index
@@ -25,11 +25,14 @@ The collection contains 252 creative pieces across all 12 Western tropical zodia
 | Aquarius | [aquarius/matter.json](aquarius/matter.json) |
 | Pisces | [pisces/matter.json](pisces/matter.json) |
 
+The engine verification record is available at [astro-engine-anchors.json](astro-engine-anchors.json).
+
 ## Folder structure
 
 ```text
 zodiac-copy-collection/
 ├── README.md
+├── astro-engine-anchors.json
 ├── aries/matter.json
 ├── taurus/matter.json
 ├── gemini/matter.json
@@ -55,6 +58,18 @@ Each `matter.json` file follows the same structure:
   "language": "English",
   "tradition": "Western tropical zodiac archetypes",
   "editorial_note": "...",
+  "astro_basis": {
+    "element": "Fire",
+    "modality": "Cardinal",
+    "ruler": "Mars",
+    "keywords": ["boldness", "initiative"]
+  },
+  "counts": {
+    "one_liners": 20,
+    "affirmations_predictions": 20,
+    "micro_poems": 3,
+    "total_content_pieces": 43
+  },
   "matter": {
     "one_liners": ["..."],
     "affirmations_predictions": ["..."],
@@ -71,7 +86,9 @@ The copy is concise, contemporary, warm, and slightly self-aware. It uses recogn
 
 Every line in the repository is original. Online astrology communities were used only to study the jokes people recognise, the stereotypes they dislike, and the language patterns that feel current. No community post was copied into the collection.
 
-The astrological framing follows the Western tropical sign archetypes documented by the open-source [Astro engine](https://github.com/aryaminus/astro). This is creative sign-level content, not an individual birth-chart reading or a factual prediction about a specific person.
+The astrological framing follows the Western tropical sign archetypes documented by the open-source [Astro engine](https://github.com/aryaminus/astro). Astro's built-in deterministic backend was run once for a representative mid-sign date for each zodiac sign. All 12 intended Sun signs were verified. The content uses only the verified Sun sign plus Astro's element, modality, ruler, and sign-keyword data. It does not use the sample charts' time-sensitive Moon, Ascendant, houses, or aspects.
+
+This is creative sign-level content, not an individual birth-chart reading or a factual prediction about a specific person.
 
 ## Suggested uses
 

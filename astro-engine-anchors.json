@@ -1,0 +1,118 @@
+{
+  "purpose": "Real Astro engine verification anchors for sign-level creative copy. Only the computed Sun sign is used; unknown-time Moon, Ascendant, and houses are excluded.",
+  "engine": "aryaminus/astro",
+  "system": "Western Tropical",
+  "location": "Greenwich, UK",
+  "timezone": "Etc/UTC",
+  "time_known": false,
+  "anchors": [
+    {
+      "requested_sign": "Aries",
+      "sample_date": "2025-04-05",
+      "computed_sun_sign": "Aries",
+      "sun_degree": 15.961,
+      "dignity": "exalted",
+      "backend": "builtin",
+      "precision_note": "~1-2 arcmin (builtin) — exact to sign/house/nakshatra/dasha"
+    },
+    {
+      "requested_sign": "Taurus",
+      "sample_date": "2025-05-05",
+      "computed_sun_sign": "Taurus",
+      "sun_degree": 15.253,
+      "dignity": "",
+      "backend": "builtin",
+      "precision_note": "~1-2 arcmin (builtin) — exact to sign/house/nakshatra/dasha"
+    },
+    {
+      "requested_sign": "Gemini",
+      "sample_date": "2025-06-05",
+      "computed_sun_sign": "Gemini",
+      "sun_degree": 15.09,
+      "dignity": "",
+      "backend": "builtin",
+      "precision_note": "~1-2 arcmin (builtin) — exact to sign/house/nakshatra/dasha"
+    },
+    {
+      "requested_sign": "Cancer",
+      "sample_date": "2025-07-05",
+      "computed_sun_sign": "Cancer",
+      "sun_degree": 13.73,
+      "dignity": "",
+      "backend": "builtin",
+      "precision_note": "~1-2 arcmin (builtin) — exact to sign/house/nakshatra/dasha"
+    },
+    {
+      "requested_sign": "Leo",
+      "sample_date": "2025-08-05",
+      "computed_sun_sign": "Leo",
+      "sun_degree": 13.332,
+      "dignity": "domicile (rulership)",
+      "backend": "builtin",
+      "precision_note": "~1-2 arcmin (builtin) — exact to sign/house/nakshatra/dasha"
+    },
+    {
+      "requested_sign": "Virgo",
+      "sample_date": "2025-09-05",
+      "computed_sun_sign": "Virgo",
+      "sun_degree": 13.188,
+      "dignity": "",
+      "backend": "builtin",
+      "precision_note": "~1-2 arcmin (builtin) — exact to sign/house/nakshatra/dasha"
+    },
+    {
+      "requested_sign": "Libra",
+      "sample_date": "2025-10-05",
+      "computed_sun_sign": "Libra",
+      "sun_degree": 12.508,
+      "dignity": "fall",
+      "backend": "builtin",
+      "precision_note": "~1-2 arcmin (builtin) — exact to sign/house/nakshatra/dasha"
+    },
+    {
+      "requested_sign": "Scorpio",
+      "sample_date": "2025-11-05",
+      "computed_sun_sign": "Scorpio",
+      "sun_degree": 13.329,
+      "dignity": "",
+      "backend": "builtin",
+      "precision_note": "~1-2 arcmin (builtin) — exact to sign/house/nakshatra/dasha"
+    },
+    {
+      "requested_sign": "Sagittarius",
+      "sample_date": "2025-12-05",
+      "computed_sun_sign": "Sagittarius",
+      "sun_degree": 13.606,
+      "dignity": "",
+      "backend": "builtin",
+      "precision_note": "~1-2 arcmin (builtin) — exact to sign/house/nakshatra/dasha"
+    },
+    {
+      "requested_sign": "Capricorn",
+      "sample_date": "2025-01-05",
+      "computed_sun_sign": "Capricorn",
+      "sun_degree": 15.407,
+      "dignity": "",
+      "backend": "builtin",
+      "precision_note": "~1-2 arcmin (builtin) — exact to sign/house/nakshatra/dasha"
+    },
+    {
+      "requested_sign": "Aquarius",
+      "sample_date": "2025-02-05",
+      "computed_sun_sign": "Aquarius",
+      "sun_degree": 16.942,
+      "dignity": "detriment",
+      "backend": "builtin",
+      "precision_note": "~1-2 arcmin (builtin) — exact to sign/house/nakshatra/dasha"
+    },
+    {
+      "requested_sign": "Pisces",
+      "sample_date": "2025-03-05",
+      "computed_sun_sign": "Pisces",
+      "sun_degree": 15.17,
+      "dignity": "",
+      "backend": "builtin",
+      "precision_note": "~1-2 arcmin (builtin) — exact to sign/house/nakshatra/dasha"
+    }
+  ]
+}

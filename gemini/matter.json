@@ -15,7 +15,17 @@
       "I came for one answer and left with six new questions.",
       "Not two-faced, just high-resolution.",
       "I can make a personality out of today's hyperfixation.",
-      "If the conversation is good, sleep can negotiate."
+      "If the conversation is good, sleep can negotiate.",
+      "I can explain. Unfortunately, it will become a podcast.",
+      "My personality update installed overnight.",
+      "I did not lose focus. The focus became less interesting.",
+      "Silence is fine until I think of something hilarious.",
+      "I contain multitudes and at least two unfinished notes apps.",
+      "Information is my love language and my biggest distraction.",
+      "I can talk myself into it, out of it, and back in before lunch.",
+      "One rumour away from investigative journalism.",
+      "My attention is not missing. It is networking.",
+      "Catch flights, feelings, and tiny inconsistencies in your story."
     ],
     "affirmations_predictions": [
       "One conversation will give your scattered ideas a clear direction.",
@@ -25,7 +35,19 @@
       "A message you nearly delete will start an honest exchange.",
       "Your next breakthrough comes from connecting two ideas nobody else paired.",
       "Finishing one thing will feel more freeing than beginning five.",
-      "Someone will enjoy your complexity without asking you to simplify it."
+      "Someone will enjoy your complexity without asking you to simplify it.",
+      "A half-finished idea finds the right format this week.",
+      "Your curiosity becomes expertise when you stay five minutes past boredom.",
+      "A new friend enters through a shared joke or unusual question.",
+      "You will say less, mean more, and be understood faster.",
+      "The information you need arrives after you ask a more precise question.",
+      "Your flexibility helps a plan survive an unexpected change.",
+      "A short trip or change of scene resets your mental rhythm.",
+      "You do not need to keep every conversation alive by yourself.",
+      "One honest answer closes three unnecessary possibilities.",
+      "Your wit will open the room; your follow-through will keep you there.",
+      "A useful connection forms when you share the unfinished version.",
+      "Your mind gets quieter once your body gets moving."
     ],
     "micro_poems": [
       [
@@ -47,5 +69,23 @@
         "too quick to say goodbye."
       ]
     ]
+  },
+  "astro_basis": {
+    "element": "Air",
+    "ruler": "Mercury",
+    "keywords": [
+      "duality",
+      "curiosity",
+      "communication",
+      "adaptability",
+      "restlessness"
+    ],
+    "modality": "Mutable"
+  },
+  "counts": {
+    "one_liners": 20,
+    "affirmations_predictions": 20,
+    "micro_poems": 3,
+    "total_content_pieces": 43
   }
 }
