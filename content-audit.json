@@ -1,0 +1,143 @@
+{
+  "generated_at": "2026-09-15T23:43:17+05:30",
+  "target_standalone_lines": 1200,
+  "actual_standalone_lines": 1200,
+  "sign_count": 12,
+  "required_lines_per_sign": 100,
+  "categories": [
+    "one_liners",
+    "affirmations_predictions",
+    "relationship_lines",
+    "ambition_creativity_lines",
+    "poetic_lines"
+  ],
+  "exact_duplicate_count": 0,
+  "placeholder_count": 0,
+  "em_dash_count": 0,
+  "under_four_word_count": 0,
+  "schema_or_count_errors": [],
+  "per_sign": [
+    {
+      "sign": "Aquarius",
+      "one_liners": 20,
+      "affirmations_predictions": 20,
+      "relationship_lines": 20,
+      "ambition_creativity_lines": 20,
+      "poetic_lines": 20,
+      "standalone_total": 100.0,
+      "bonus_micro_poems": 3
+    },
+    {
+      "sign": "Aries",
+      "one_liners": 20,
+      "affirmations_predictions": 20,
+      "relationship_lines": 20,
+      "ambition_creativity_lines": 20,
+      "poetic_lines": 20,
+      "standalone_total": 100.0,
+      "bonus_micro_poems": 3
+    },
+    {
+      "sign": "Cancer",
+      "one_liners": 20,
+      "affirmations_predictions": 20,
+      "relationship_lines": 20,
+      "ambition_creativity_lines": 20,
+      "poetic_lines": 20,
+      "standalone_total": 100.0,
+      "bonus_micro_poems": 3
+    },
+    {
+      "sign": "Capricorn",
+      "one_liners": 20,
+      "affirmations_predictions": 20,
+      "relationship_lines": 20,
+      "ambition_creativity_lines": 20,
+      "poetic_lines": 20,
+      "standalone_total": 100.0,
+      "bonus_micro_poems": 3
+    },
+    {
+      "sign": "Gemini",
+      "one_liners": 20,
+      "affirmations_predictions": 20,
+      "relationship_lines": 20,
+      "ambition_creativity_lines": 20,
+      "poetic_lines": 20,
+      "standalone_total": 100.0,
+      "bonus_micro_poems": 3
+    },
+    {
+      "sign": "Leo",
+      "one_liners": 20,
+      "affirmations_predictions": 20,
+      "relationship_lines": 20,
+      "ambition_creativity_lines": 20,
+      "poetic_lines": 20,
+      "standalone_total": 100.0,
+      "bonus_micro_poems": 3
+    },
+    {
+      "sign": "Libra",
+      "one_liners": 20,
+      "affirmations_predictions": 20,
+      "relationship_lines": 20,
+      "ambition_creativity_lines": 20,
+      "poetic_lines": 20,
+      "standalone_total": 100.0,
+      "bonus_micro_poems": 3
+    },
+    {
+      "sign": "Pisces",
+      "one_liners": 20,
+      "affirmations_predictions": 20,
+      "relationship_lines": 20,
+      "ambition_creativity_lines": 20,
+      "poetic_lines": 20,
+      "standalone_total": 100.0,
+      "bonus_micro_poems": 3
+    },
+    {
+      "sign": "Sagittarius",
+      "one_liners": 20,
+      "affirmations_predictions": 20,
+      "relationship_lines": 20,
+      "ambition_creativity_lines": 20,
+      "poetic_lines": 20,
+      "standalone_total": 100.0,
+      "bonus_micro_poems": 3
+    },
+    {
+      "sign": "Scorpio",
+      "one_liners": 20,
+      "affirmations_predictions": 20,
+      "relationship_lines": 20,
+      "ambition_creativity_lines": 20,
+      "poetic_lines": 20,
+      "standalone_total": 100.0,
+      "bonus_micro_poems": 3
+    },
+    {
+      "sign": "Taurus",
+      "one_liners": 20,
+      "affirmations_predictions": 20,
+      "relationship_lines": 20,
+      "ambition_creativity_lines": 20,
+      "poetic_lines": 20,
+      "standalone_total": 100.0,
+      "bonus_micro_poems": 3
+    },
+    {
+      "sign": "Virgo",
+      "one_liners": 20,
+      "affirmations_predictions": 20,
+      "relationship_lines": 20,
+      "ambition_creativity_lines": 20,
+      "poetic_lines": 20,
+      "standalone_total": 100.0,
+      "bonus_micro_poems": 3
+    }
+  ],
+  "astro_engine_evidence": "astro-engine-anchors.json",
+  "research_note": "Fresh web search sampled r/astrologymemes and r/Zodiac discussions; wording is original."
+}

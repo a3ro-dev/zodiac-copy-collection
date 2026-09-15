@@ -2,11 +2,14 @@
 
 An original, ready-to-use writing bank for zodiac-themed products aimed at ages 16–22.
 
-The collection contains 516 creative pieces across all 12 Western tropical zodiac signs. Every sign has 43 pieces, more than double the requested minimum of 20:
+The collection contains exactly 1,200 standalone pieces across all 12 Western tropical zodiac signs, plus 36 bonus four-line micro-poems. Every sign has 100 standalone pieces:
 
 - 240 punchy one-liners: 20 per sign
 - 240 affirmations and forward-looking predictions: 20 per sign
-- 36 four-line micro-poems
+- 240 relationship lines: 20 per sign
+- 240 ambition and creativity lines: 20 per sign
+- 240 standalone poetic lines: 20 per sign
+- 36 bonus four-line micro-poems: 3 per sign
 
 ## Sign index
 
@@ -26,6 +29,7 @@ The collection contains 516 creative pieces across all 12 Western tropical zodia
 | Pisces | [pisces/matter.json](pisces/matter.json) |
 
 The engine verification record is available at [astro-engine-anchors.json](astro-engine-anchors.json).
+The machine-readable quantity and duplication report is available at [content-audit.json](content-audit.json).
 
 ## Folder structure
 
@@ -33,6 +37,7 @@ The engine verification record is available at [astro-engine-anchors.json](astro
 zodiac-copy-collection/
 ├── README.md
 ├── astro-engine-anchors.json
+├── content-audit.json
 ├── aries/matter.json
 ├── taurus/matter.json
 ├── gemini/matter.json
@@ -67,12 +72,19 @@ Each `matter.json` file follows the same structure:
   "counts": {
     "one_liners": 20,
     "affirmations_predictions": 20,
+    "relationship_lines": 20,
+    "ambition_creativity_lines": 20,
+    "poetic_lines": 20,
     "micro_poems": 3,
-    "total_content_pieces": 43
+    "standalone_content": 100,
+    "total_content_pieces": 103
   },
   "matter": {
     "one_liners": ["..."],
     "affirmations_predictions": ["..."],
+    "relationship_lines": ["..."],
+    "ambition_creativity_lines": ["..."],
+    "poetic_lines": ["..."],
     "micro_poems": [
       ["line 1", "line 2", "line 3", "line 4"]
     ]
@@ -86,7 +98,9 @@ The copy is concise, contemporary, warm, and slightly self-aware. It uses recogn
 
 Every line in the repository is original. Online astrology communities were used only to study the jokes people recognise, the stereotypes they dislike, and the language patterns that feel current. No community post was copied into the collection.
 
-The astrological framing follows the Western tropical sign archetypes documented by the open-source [Astro engine](https://github.com/aryaminus/astro). Astro's built-in deterministic backend was run once for a representative mid-sign date for each zodiac sign. All 12 intended Sun signs were verified. The content uses only the verified Sun sign plus Astro's element, modality, ruler, and sign-keyword data. It does not use the sample charts' time-sensitive Moon, Ascendant, houses, or aspects.
+The astrological framing follows the Western tropical sign archetypes documented by the open-source [Astro engine](https://github.com/aryaminus/astro). Astro's built-in deterministic backend was run once for a representative mid-sign date for each zodiac sign. All 12 intended Sun signs were verified. The exact Astro source revision was checked through the GitHub REST API and recorded in `astro-engine-anchors.json`. The content uses only the verified Sun sign plus Astro's element, modality, ruler, and sign-keyword data. It does not use the sample charts' time-sensitive Moon, Ascendant, houses, or aspects.
+
+Community research included discussions in r/astrologymemes and r/Zodiac about relationships, work styles, humour, strengths, and stereotypes people find reductive. Those discussions informed the editorial boundaries, not the wording. Every delivered line is original.
 
 This is creative sign-level content, not an individual birth-chart reading or a factual prediction about a specific person.
 

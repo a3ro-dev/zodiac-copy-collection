@@ -114,5 +114,8 @@
       "backend": "builtin",
       "precision_note": "~1-2 arcmin (builtin) — exact to sign/house/nakshatra/dasha"
     }
-  ]
+  ],
+  "engine_source_commit": "82df4c1c285cb470625373a716bab86c343e4b6e",
+  "engine_commit_url": "https://github.com/aryaminus/astro/commit/82df4c1c285cb470625373a716bab86c343e4b6e",
+  "source_revision_verified_via": "GitHub REST API via gh api"
 }
