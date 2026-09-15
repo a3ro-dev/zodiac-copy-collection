@@ -1,0 +1,40 @@
+{
+  "method": "Web and API sources were used to identify recurring archetypes, disliked stereotypes, and contemporary conversational territory. All final copy is original.",
+  "sources": [
+    {
+      "name": "Astro open-source astrology engine",
+      "url": "https://github.com/aryaminus/astro",
+      "use": "Canonical Western tropical sign data and deterministic Sun-sign verification"
+    },
+    {
+      "name": "Astro source revision",
+      "url": "https://github.com/aryaminus/astro/commit/82df4c1c285cb470625373a716bab86c343e4b6e",
+      "use": "Exact engine revision verified through the GitHub REST API"
+    },
+    {
+      "name": "r/astrologymemes: placement stereotypes that annoy people",
+      "url": "https://www.reddit.com/r/astrologymemes/comments/1fdoorx/what_stereotypes_about_your_placements_annoy_you/",
+      "use": "Avoiding one-note relationship stereotypes"
+    },
+    {
+      "name": "r/astrologymemes: relationships and astrology",
+      "url": "https://www.reddit.com/r/astrologymemes/comments/1c42xtl/how_much_do_you_think_astrological_signs_can/",
+      "use": "Keeping relationship copy playful and agency-forward"
+    },
+    {
+      "name": "r/astrologymemes: signs people enjoy working with",
+      "url": "https://www.reddit.com/r/astrologymemes/comments/1nz4co6/who_are_the_best_signs_to_work_with_and_the_worst/",
+      "use": "Work-style language and stereotype boundaries"
+    },
+    {
+      "name": "r/Zodiac: generalisation and stereotype discussion",
+      "url": "https://www.reddit.com/r/Zodiac/comments/1s5jn7k/genuine_question_and_small_rant_are_all_these/",
+      "use": "Editorial guardrail against ranking or vilifying signs"
+    }
+  ],
+  "api_usage": [
+    "GitHub REST API used to verify the Astro main-branch revision",
+    "GitHub REST API used to verify the final public-repository commit"
+  ],
+  "copyright_note": "No Reddit or Astro prose was copied into the content bank. Astro's factual sign attributes are recorded as structured metadata."
+}

@@ -30,6 +30,7 @@ The collection contains exactly 1,200 standalone pieces across all 12 Western tr
 
 The engine verification record is available at [astro-engine-anchors.json](astro-engine-anchors.json).
 The machine-readable quantity and duplication report is available at [content-audit.json](content-audit.json).
+The web and API research manifest is available at [research-sources.json](research-sources.json).
 
 ## Folder structure
 
@@ -38,6 +39,7 @@ zodiac-copy-collection/
 ├── README.md
 ├── astro-engine-anchors.json
 ├── content-audit.json
+├── research-sources.json
 ├── aries/matter.json
 ├── taurus/matter.json
 ├── gemini/matter.json
