@@ -1,0 +1,97 @@
+[
+  {
+    "sign": "aries",
+    "title": "The First Spark",
+    "copy": "I was the match before the room knew it needed light.",
+    "method": "diffusion artwork with typeset copy",
+    "source_art": "exec-154d3c1f-c8c7-4b05-9fcf-e553ff013457.png",
+    "png": "aries-front-bleed-300dpi.png",
+    "pdf": "aries-front-print.pdf",
+    "bleed_size_mm": [
+      56,
+      156
+    ],
+    "trim_size_mm": [
+      50,
+      150
+    ],
+    "bleed_mm": 3,
+    "raster_dpi": 300
+  },
+  {
+    "sign": "cancer",
+    "title": "The Silver Tide",
+    "copy": "The moon keeps my name in a silver bowl.",
+    "method": "diffusion artwork with typeset copy",
+    "source_art": "exec-42b6bf19-2b50-49a4-b508-94f6ca4086a3.png",
+    "png": "cancer-front-bleed-300dpi.png",
+    "pdf": "cancer-front-print.pdf",
+    "bleed_size_mm": [
+      56,
+      156
+    ],
+    "trim_size_mm": [
+      50,
+      150
+    ],
+    "bleed_mm": 3,
+    "raster_dpi": 300
+  },
+  {
+    "sign": "leo",
+    "title": "The Golden Hour",
+    "copy": "The sun signs its name across my shoulders.",
+    "method": "diffusion artwork with typeset copy",
+    "source_art": "exec-29e34362-fa9f-4535-a2c5-cdc6367a7afb.png",
+    "png": "leo-front-bleed-300dpi.png",
+    "pdf": "leo-front-print.pdf",
+    "bleed_size_mm": [
+      56,
+      156
+    ],
+    "trim_size_mm": [
+      50,
+      150
+    ],
+    "bleed_mm": 3,
+    "raster_dpi": 300
+  },
+  {
+    "sign": "scorpio",
+    "title": "The Red Moon",
+    "copy": "I keep a red moon beneath still water.",
+    "method": "diffusion artwork with typeset copy",
+    "source_art": "exec-7cb2adc9-5f46-4805-9875-8af2ad24e5f2.png",
+    "png": "scorpio-front-bleed-300dpi.png",
+    "pdf": "scorpio-front-print.pdf",
+    "bleed_size_mm": [
+      56,
+      156
+    ],
+    "trim_size_mm": [
+      50,
+      150
+    ],
+    "bleed_mm": 3,
+    "raster_dpi": 300
+  },
+  {
+    "sign": "pisces",
+    "title": "The Dream Current",
+    "copy": "I wake with seawater still bright behind my eyes.",
+    "method": "diffusion artwork with typeset copy",
+    "source_art": "exec-d4c7edf7-00a6-4766-b847-c494f28b9379.png",
+    "png": "pisces-front-bleed-300dpi.png",
+    "pdf": "pisces-front-print.pdf",
+    "bleed_size_mm": [
+      56,
+      156
+    ],
+    "trim_size_mm": [
+      50,
+      150
+    ],
+    "bleed_mm": 3,
+    "raster_dpi": 300
+  }
+]

@@ -18,3 +18,5 @@ Every product family has two subfolders:
 9. `09-zodiac-dice` — dice-and-dish game piece
 
 The render sheets are visual reference assets, not manufacturing drawings. They deliberately preserve the supplied materials and motifs and avoid adding brands, slogans, or unrelated concepts.
+
+Five original diffusion-generated zodiac bookmark fronts, press PDFs, prompts, and a PNG bundle are in [`04-bookmarks/ai-generated-diffusion/`](04-bookmarks/ai-generated-diffusion/).
